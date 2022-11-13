@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GimetryCalculate</string>
+    <string name="enter_sentence">הזן משפט</string>
+    <string name="calculate_gimetry">חשב גימטריה</string>
+</resources>
